@@ -121,7 +121,9 @@ Behaviour Driven Development(BDD)
 
 Quick Intro about the Tools 
 ---
-  
+  JEST 
+    * Framework and also a test runner 
+
 
 // How to write test cases?
 // Where to write test cases?
