@@ -123,8 +123,32 @@ Quick Intro about the Tools
 ---
   JEST 
     * Framework and also a test runner 
+  
+  React Testing Library 
+  --
+    * Testing Utility optimized for React 
+    
+  Enzyme
+  --
+    * jQuery like tool - for dom traversal
 
 
 // How to write test cases?
 // Where to write test cases?
 // How to test our app against the test cases we identified? 
+
+NPM Dep 
+--
+  1. Project Dep 
+      npm i react-router-dom 
+      or
+      npm i react-router-dom --save 
+      or 
+      npm i react-router-dom -S 
+
+  2. Dev Dep 
+      npm i jest --save-dev 
+      or 
+      npm i jest -D 
+
+      
