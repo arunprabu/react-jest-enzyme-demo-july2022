@@ -103,7 +103,8 @@ Modern S/W Dev Methodology
 
 Test Driven Development (TDD) 
 ----
-  * is a programming practice that instructs the dev's to write the new code only if automated test has failed 
+  * is a programming practice that instructs the dev's to write the 
+    new code only if automated test has failed 
   dev's write test cases => (instant feedback of failure) => dev's write functionality => (instant feedback of success) => [CODE COMPLETE ]
 
   Tools: JEST 
@@ -152,3 +153,15 @@ NPM Dep
       npm i jest -D 
 
       
+TODOS:
+---
+  Mocking error case 
+  Mocking (nested) components 
+  Learn about spyOn 
+
+  Learn about testing useReducer() Hooks 
+  Learn about testing Custom Hooks 
+
+
+---
+
